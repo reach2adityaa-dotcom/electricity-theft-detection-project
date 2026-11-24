@@ -1,0 +1,1 @@
+Place a permitted, documented smart-meter CSV here for local experiments. Do not commit restricted, licensed, or private consumer data to a public GitHub repository. The app also supports uploading a CSV directly in the dashboard.

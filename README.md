@@ -1,2 +1,2 @@
-# electricity-theft-detection-project
-Electricity Theft Detection and Abnormal Consumption Analytics Using Smart Meter Data
+# electricity-theft-detection
+Machine learning based electricity theft detection and abnormal consumption analytics using smart meter data.
